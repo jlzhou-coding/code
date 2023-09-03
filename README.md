@@ -1,3 +1,1 @@
-# hello-world
-just another repository
-hello my name is king
+# Codes for published articles by Jinlong Zhou
